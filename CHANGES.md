@@ -5,7 +5,7 @@ Features ✨:
  -
 
 Improvements 🙌:
- -
+ - Prioritising Recovery key over Recovery passphrase (#1463)
 
 Bugfix 🐛:
  -
