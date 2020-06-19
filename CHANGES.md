@@ -22,6 +22,7 @@ Build 🧱:
 
 Other changes:
  - Keys Backup API now use the unstable prefix (#1503)
+ - Remove deviceId from /keys/upload/{deviceId} as not spec-compliant (#1502)
 
 Changes in RiotX 0.22.0 (2020-06-15)
 ===================================================
