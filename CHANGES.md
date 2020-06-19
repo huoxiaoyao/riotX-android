@@ -21,7 +21,7 @@ Build 🧱:
  - SDK is now API level 21 minimum, and so RiotX (#405)
 
 Other changes:
- -
+ - Keys Backup API now use the unstable prefix (#1503)
 
 Changes in RiotX 0.22.0 (2020-06-15)
 ===================================================
